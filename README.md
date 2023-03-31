@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @KevinCattt, a freshman in SCUT in China(2021).
+- 👋 Hi, I’m @Kevin Stark, a student in SCUT,China(enrolled in 2021).
 - 👀 I’m interested in Aerospace, Robotics, Energy, Ecology and Web. I like playing piano and reading books.
 - 🌱 I’m currently learning Robotics and Computer Science.
 - 💞️ I’m looking to collaborate on ...Mechanicial Engineering maybe, I don't have ideas.
